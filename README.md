@@ -1,4 +1,6 @@
 # Deteksi_Plat_Indonesia
+## Repository ini dibuat untuk Tugas Akhir dan Skripsi 
+### by : Herman Yosep Aditya Widihartantyo (19/443622/TK/48818)
 
 - Deteksi plat nomor menggunakan SSD Mobilenet V2 dan EasyOCR
   Referensi code -> https://github.com/nicknochnack/TFODCourse
@@ -8,5 +10,3 @@
   Referensi -> https://daihatsu.co.id/tips-and-event/tips-sahabat/detail-content/detail-kode-plat-nomor-belakang-kendaraan-indonesia-beserta-wilayahnya/
 
 
-Repository ini dibuat untuk Tugas Akhir dan Skripsi
-by : Herman Yosep Aditya Widihartantyo (19/443622/TK/48818)
